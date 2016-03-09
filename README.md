@@ -1,6 +1,6 @@
 # Huffman_Coding
 
-This C Program encodes and compresses data, using the Huffman's Coding technique.
+This C Program encodes and compresses data dynamically, using the Huffman's Coding technique.
 You can either encode Colour Table Values (Digital Image Processing) or just a text message of your desire. <br/>
  
  
