@@ -5,8 +5,7 @@ This complex C Program encodes and compresses data dynamically, using the Huffma
  
 1) To run this program double-click the HuffmanCoding.exe file. <br/>
 2) Follow the instuctions, and use your inputs. <br/>
-3) Notice that you can use the examples given, as inputs for testing. <br/><br/>
-
+3) Notice that you can use the examples given, as inputs for testing. <br/>
 
 - December 2015, Serres, Greece
 - Nikiforos Archakis
