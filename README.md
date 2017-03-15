@@ -10,9 +10,9 @@ This complex <b>C</b> Program encodes and compresses data dynamically, using the
 - December 2015, Serres, Greece
 - Nikiforos Archakis
 
-<table>
- 	<tr>
-		<td><a href="/colortablevalues.JPG"><img src="colortablevalues.JPG"></a></td>
-		<td><a href="textmessage.JPG"><img src="textmessage.JPG"></a></td>
-	</tr>
-</table>
+
+ 	
+<a href="/colortablevalues.JPG"><img src="colortablevalues.JPG"></a>
+<a href="textmessage.JPG"><img src="textmessage.JPG"></a>
+	
+
